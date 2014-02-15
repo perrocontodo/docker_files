@@ -1,7 +1,9 @@
 # Django in Docker
 #
 # VERSION 1
-
+#
+# based on the primer by @ochronus 
+# more info: https://ochronus.com/docker-primer-django/
 
 
 # Using the Ubuntu base image
